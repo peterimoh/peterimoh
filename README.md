@@ -29,11 +29,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. I am an experienced software engineer who constantly seeks out innovative solutions to everyday problems. In my four years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with teams. 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. I am an experienced software engineer who constantly seeks out innovative solutions to everyday problems. In my four years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with teams. I'd enjoy bringing my skills and knowledge to help develop ideas and think through the feasibility or scalability of your platform's features or elements.
+- :telescope: I've also had the opportunity to serve as the software engineer for several organizations both on-site and remotely. I am committed to mobile applications and web applications development.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Imoh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imoh-peter-b520b8198/)
+- :mailbox:If you'd like to discuss our next collaboration, reach out! I'd love to find out how I can help your team. [![Linkedin Badge](https://img.shields.io/badge/-Imoh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imoh-peter-b520b8198/)
