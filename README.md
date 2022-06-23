@@ -36,4 +36,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imoh-peter-b520b8198/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Imoh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imoh-peter-b520b8198/)
